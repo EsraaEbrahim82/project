@@ -1,0 +1,304 @@
+/*================================ Satrt large screens =========================*/
+@media (min-width:1201px ) and (max-width: 1440px)
+{
+   
+}
+@media (min-width:1025px) and (max-width:1200px)
+{
+
+}
+/*============================== Start medium screen of tablet =========================*/
+@media (min-width: 993px) and (max-width: 1024px)
+{
+    #home .content-box .name {
+        font-size: 3rem;
+    }
+    #home .content-box .name::before {
+        position: absolute;
+        top: 27px;
+    }
+    .info .title .dedcription-btn {
+        width: 129%;
+    }
+    .progresss .progress-radial 
+    {
+        position: relative;
+        left: 3rem;
+    }
+}
+@media (min-width: 769px) and (max-width: 992px)
+{
+
+}
+@media(max-width:992px)
+{
+
+}
+/*============================== Start small screen of mobile =========================*/
+@media(max-width:768px)
+{
+    
+}
+@media (min-width: 577px) and (max-width: 768px)
+{
+    #home
+    {
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+    #home .content-box {
+        position: relative;
+        left: 0rem;
+        text-align: center;
+        top: 1rem;
+    }
+    #home .content-box .name {
+        font-size: 2rem;
+    }
+    #home .content-box .title {
+        font-size: 14px;
+        line-height: 32px;
+    }
+    #home .content-box .job {
+        font-size: 2rem;
+    }
+    #home .content-box .name::before
+    {
+        position: relative;
+    }
+    #about .title .sub-title 
+    ,  #portfolio .title .sub-title 
+    {
+        font-size: 37px;
+    }
+    #about .title .title-bg 
+    ,   #portfolio .title .title-bg 
+    {
+        font-size: 63px;
+    }
+   
+    .progresss .title 
+    {
+        position: relative;
+        top: 0rem;
+        right: 0rem;
+    }
+    .progresss .progress-radial 
+    {
+        position: relative;
+        left: 1rem;
+    }
+    .info .title .dedcription-btn {
+        width: 175%;
+    }
+  
+}
+@media(max-width:576px)
+{
+    #home
+    {
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+    #home .content-box {
+        position: relative;
+        left: 0rem;
+        text-align: center;
+        top: 1rem;
+    }
+    #home .content-box .name {
+        font-size: 2rem;
+    }
+    #home .content-box .title {
+        font-size: 14px;
+        line-height: 32px;
+    }
+    #home .content-box .job {
+        font-size: 2rem;
+    }
+    #home .content-box .name::before
+    {
+        position: relative;
+    }
+    #about .title .sub-title 
+    ,  #portfolio .title .sub-title 
+    {
+        font-size: 37px;
+    }
+    #about .title .title-bg 
+    ,   #portfolio .title .title-bg 
+    {
+        font-size: 63px;
+    }
+   
+    .progresss .title 
+    {
+        position: relative;
+        top: 0rem;
+        right: 1rem;
+    }
+}
+@media(min-width: 426px) and (max-width: 576px)
+{
+    #home
+    {
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+    #home .content-box {
+        position: relative;
+        left: 0rem;
+        text-align: center;
+        top: 3rem;
+    }
+    #home .content-box .name {
+        font-size: 2rem;
+    }
+    #home .content-box .title {
+        font-size: 14px;
+        line-height: 32px;
+    }
+    #home .content-box .job {
+        font-size: 2rem;
+    }
+    #home .content-box .name::before
+    {
+        position: relative;
+    }
+    #about .title .sub-title 
+    ,  #portfolio .title .sub-title 
+    {
+        font-size: 37px;
+    }
+    #about .title .title-bg 
+    ,   #portfolio .title .title-bg 
+    {
+        font-size: 63px;
+    }
+   
+    .progresss .title 
+    {
+        position: relative;
+        top: 0rem;
+        right: 1rem;
+    }
+}
+@media (min-width: 376px) and (max-width: 425px)
+{
+    #home
+    {
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+    #home .content-box {
+        position: relative;
+        left: 0rem;
+        text-align: center;
+        top: 3rem;
+    }
+    #home .content-box .name {
+        font-size: 2rem;
+    }
+    #home .content-box .title {
+        font-size: 14px;
+        line-height: 32px;
+    }
+    #home .content-box .job {
+        font-size: 2rem;
+    }
+    #home .content-box .name::before
+    {
+        position: relative;
+    }
+    #about .title .sub-title 
+    ,  #portfolio .title .sub-title 
+    {
+        font-size: 37px;
+    }
+    #about .title .title-bg 
+    ,   #portfolio .title .title-bg 
+    {
+        font-size: 63px;
+    }
+   
+    .progresss .title 
+    {
+        position: relative;
+        top: 0rem;
+        right: 1rem;
+    }
+    .progresss .progress-radial 
+    {
+        position: relative;
+        left: 8rem;
+    }
+}
+@media (min-width: 321px) and (max-width: 375px)
+{
+    #home
+    {
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+    #home .content-box {
+        position: relative;
+        left: 0rem;
+        text-align: center;
+        top: 3rem;
+    }
+    #home .content-box .name {
+        font-size: 1.5rem;
+    }
+    #home .content-box .name::before
+    {
+        position: relative;
+    }
+    #about .title .sub-title 
+    ,  #portfolio .title .sub-title 
+    {
+        font-size: 37px;
+    }
+    #about .title .title-bg 
+    ,   #portfolio .title .title-bg 
+    {
+        font-size: 63px;
+    }
+   
+    .progresss .title 
+    {
+        position: relative;
+        right: 3rem;
+    }
+}
+@media (max-width: 320px)
+{
+    #home
+    {
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+    #home .content-box {
+        position: relative;
+        left: 0rem;
+        text-align: center;
+        top: 3rem;
+    }
+    #home .content-box .name {
+        font-size: 1.5rem;
+    }
+    #home .content-box .name::before
+    {
+        position: relative;
+    }
+    #about .title .sub-title 
+    ,  #portfolio .title .sub-title 
+    {
+        font-size: 37px;
+    }
+    #about .title .title-bg 
+    ,   #portfolio .title .title-bg 
+    {
+        font-size: 63px;
+    }
+   
+}
